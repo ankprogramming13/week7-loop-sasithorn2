@@ -9,10 +9,10 @@ int main() {
   // ตัวอย่างโปรแกรมที่ใช้ for
 
   int i = 0;
-  for (i = 0; i < 10; i+1) {
-    cout << "Run from for" << endl;
+  while (i = 0; i < 10; i+1) {
+    cout << "Run from while" << endl;
   }
-  cout << "************END FOR************" << endl;
+  cout << "************END while************" << endl;
 
   // เขียนโปรแกรมที่ทำงานเหมือนด้านบนโดยใช้ while แทน for
 
